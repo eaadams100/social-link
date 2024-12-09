@@ -12,7 +12,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![screenshot](/social-links-profile-main/assets/images/social.png)
+![screenshot](https://github.com/eaadams100/social-link/blob/main/assets/images/social.png)
 
 ### Links
 
